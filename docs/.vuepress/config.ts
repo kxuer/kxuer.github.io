@@ -172,7 +172,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://git.poker/kxuer/image_store/blob/main/img/knowledge.6zl141tmhs80.webp?raw=true',
+      avatar: 'https://cdn.staticaly.com/gh/kxuer/image_store@main/img/knowledge.6zl141tmhs80.webp',
       name: 'Kxuer Z',
       slogan: '前端界的小学生',
     },

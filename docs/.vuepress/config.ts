@@ -49,6 +49,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '后端',
         link: '/backend/',
         items: [
+          { text: 'Java', link: '/backend/java/' },
           { text: 'Golang', link: '/backend/go/' },
         ],
       },
@@ -59,6 +60,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: '技术文档', link: '/technology/tech/' },
           { text: '博客搭建', link: '/technology/blog/' },
           { text: 'Linux', link: '/technology/linux/' },
+          { text: '数据库', link: '/technology/database/' },
           { text: '软件使用', link: '/technology/software/' },
         ],
       },
